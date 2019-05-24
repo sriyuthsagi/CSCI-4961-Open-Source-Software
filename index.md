@@ -1,8 +1,9 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## (Sriyuth Sagi)
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+(I'm a junior and a CS major.)
+
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
