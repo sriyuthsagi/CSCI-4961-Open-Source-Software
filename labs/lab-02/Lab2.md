@@ -7,7 +7,6 @@ https://github.com/sriyuthsagi/open_source_lab2
 
 
 
-
-
-
 https://github.com/sriyuthsagi/Spoon-Knife
+
+![git branching](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-02/Screenshot%202019-05-31%2011.25.16.png)
