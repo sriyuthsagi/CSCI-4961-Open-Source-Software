@@ -20,3 +20,5 @@ Part 3
 https://github.com/sriyuthsagi/PullReq
 
 ![git diff and tag](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-02/Screenshot%202019-05-31%2011.47.49.png)
+
+https://github.com/beshaz/OSSProjectIdeas
