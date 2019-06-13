@@ -3,7 +3,7 @@
 
 Part 1
 
-[Wiki](wiki)
+[Wiki](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/wiki)
 
 
 
