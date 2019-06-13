@@ -1,20 +1,25 @@
 
 
 
+Part 1
 
 
 
-Tornado
 
-Collaborators: 
+Part 2
 
-Lines of Code: 
 
-First commit: 
+Smart Calender
 
-Last commit: 
+Collaborators: 2
 
-Branches: 
+Lines of Code: 844
+
+First commit: January 14 2019
+
+Last commit: April 26 2019
+
+Branches: 2
 
 
 Tornado
@@ -52,12 +57,22 @@ Branches: 31
 
 YACS
 
-Collaborators: 
+Collaborators: 48
 
-Lines of Code: 
+Lines of Code: 26695
 
-First commit: 
+First commit: September 16 2015
 
-Last commit: 
+Last commit: March 5 2015
 
-Branches: 
+Branches: 14
+
+
+
+
+![gitstats](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-07%2011.24.18.png)
+
+The results from gitstats display 45975 existing lines of code while the terminal commands show 68142 lines instead. Even taking into account the removed lines of code the total given by gitstats is still 66452 which is different from the terminal value. However, the other details relating to commits with their timestamps do match. Additionally, github shows 16 contributers while gitstats shows 27
+
+![gource](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-07%2011.57.35.png)
+
