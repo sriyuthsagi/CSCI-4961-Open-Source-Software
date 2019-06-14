@@ -3,13 +3,23 @@
 
 Part 1
 
-[Wiki](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/wiki)
+1. [Wiki](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/wiki)
+
+2. 
+
+![latex1](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-13%2020.02.15.png)
+
+3.
+
+![latex2](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-13%2020.11.57.png)
+
 
 
 
 
 Part 2
 
+4.
 
 Smart Calender
 
@@ -71,10 +81,15 @@ Branches: 14
 
 
 
+4.
 
 ![gitstats](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-07%2011.24.18.png)
 
+5.
+
 The results from gitstats display 45975 existing lines of code while the terminal commands show 68142 lines instead. Even taking into account the removed lines of code the total given by gitstats is still 66452 which is different from the terminal value. However, the other details relating to commits with their timestamps do match. Additionally, github shows 16 contributers while gitstats shows 27
+
+3.
 
 ![gource](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-03/Screenshot%202019-06-07%2011.57.35.png)
 
