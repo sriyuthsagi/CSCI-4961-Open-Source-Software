@@ -13,3 +13,5 @@
 [Lab 2](labs/lab-02/lab2.md)
 
 [Lab 3](labs/lab-03/lab3.md)
+
+[Lab 4](labs/lab-04/lab4.md)
