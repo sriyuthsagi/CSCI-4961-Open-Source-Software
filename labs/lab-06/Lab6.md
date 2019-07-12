@@ -27,3 +27,7 @@ Example3:
 
 
 Example4:
+
+![localhost](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-06/Screenshot%202019-07-12%2011.39.09.png)
+
+![messages](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-06/Screenshot%202019-07-12%2011.41.59.png)
