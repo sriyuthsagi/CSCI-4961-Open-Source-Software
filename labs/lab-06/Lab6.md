@@ -15,6 +15,7 @@ Example1:
 
 Example2:
 
+When I try running the localhost through the browser it is infinitely loading without displaying any output or showing any errors.
 
 
 
