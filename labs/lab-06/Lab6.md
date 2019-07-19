@@ -15,7 +15,7 @@ Example1:
 
 Example2:
 
-When I try running the localhost through the browser it is infinitely loading without displaying any output or showing any errors.
+![rocket chat](https://github.com/sriyuthsagi/CSCI-4961-Open-Source-Software/blob/master/labs/lab-06/Screenshot%202019-07-19%2010.04.07.png)
 
 
 
