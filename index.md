@@ -19,3 +19,5 @@
 [Lab 5](labs/lab-05/Lab5.md)
 
 [Lab 6](labs/lab-06/Lab6.md)
+
+[Lab 7](labs/lab-07/Lab7.md)
